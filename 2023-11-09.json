@@ -1,0 +1,26 @@
+{
+  "name": "Fred Leonard",
+  "age": 60,
+  "address": {
+    "street": "Gagew Center",
+    "city": "Sawigiza",
+    "state": "NH",
+    "zip": "17486"
+  },
+  "contact": {
+    "phone": "(442) 605-2573",
+    "servicePhone": "800895347"
+  },
+  "birthday": "1991-03-09T04:42:55.846Z",
+  "ip": "184.22.92.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Tajon ocasej kigav bibuz tawanco sa ro zegepe uk vo obud imefowe. Anudote tufepjog hotsojwu roweko ru gi kagfouv mijdoslu wecusfu jezrujta gohvowhi feuciga ohjutad ro puezi pa kigila. Doh zulow re heevate sansuwma somafeso judida vupajov bufdedin silda ma zasefap fekuj je dekimucoh oma kes. Conibca saboro kitelmuf hedein begiud ap mavuv oghecwin ive nepwe oro melraver hu bukojetot badgot gevojwim guc ijidi. Hosnisul jirabu sac zueba duw gir gego miv rugdelinu uhe si mizcuver enhef beisu asa.",
+    "bio": "Abebebu lu kitwoke iji poseci dahjari gavopzil faka lu sedaf wisedusi peir falmamhor vas goto dawjiru igiuti. Guzkaja cirub kivfup tam jeh la tiblo gipvuviz ge wionaci kizhiete mu loepiivu suag. Ehif kovumvat dip pez gi we uti jaehgi racriv usuegpek te wama. Dohonjoh esaura fafzorma fug fumab weuliake tiwihfa bermo jogbi avo ijivoz nara."
+  },
+  "apiKey": "5882a55f620292553d21c8b276a3a8797b47da7d68a2a62d068d79cef1ff30db",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
