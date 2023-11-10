@@ -1,0 +1,26 @@
+{
+  "name": "Adeline Schneider",
+  "age": 29,
+  "address": {
+    "street": "Jabod Manor",
+    "city": "Sakubnaf",
+    "state": "SC",
+    "zip": "49208"
+  },
+  "contact": {
+    "phone": "(560) 257-7683",
+    "servicePhone": "800371278"
+  },
+  "birthday": "1998-08-04T05:39:16.605Z",
+  "ip": "128.232.193.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Zenu mifilo voade tuzidros nufi filan ewacisi hevek zik liojgi ju oruulaiw wosza mab ruwfi. Dif gildeut widmurnu ler no fogaf kunroter voetu uma awuradvaz bo ap kidokevas. Ejhuckuk tezase datfodpu aziezuzec vuv joli inako tec se wub ufehije weobgaf ronhepez ha ucibomoj ne gawureje.",
+    "bio": "Hactit pe ideje get momehi carisib iru wanpow mov pibfotwes reca najit zioscef tuije. Musbibab vid re giip dalhidu galpozo fuk izapusug davedi ci fihok parioli ravsokuv cigmuhzo mokhicces ku effal nofla. Gime uvosasid masi eticu su eki giamota nanim ufaveiga ho erizout ja pej duca bulojki ote cani. Ku segwewow ogifivo bihe peh fal jofvaz bef an nemfunoz azcef apigesaf fojafo ka ogopuptob rih."
+  },
+  "apiKey": "1f43a1c12f1418a97d651f2a2916fba61b263f7dd0d50a3d8d88c4457c456616",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
