@@ -1,0 +1,26 @@
+{
+  "name": "Brian Owens",
+  "age": 18,
+  "address": {
+    "street": "Toez Path",
+    "city": "Fahajipe",
+    "state": "HI",
+    "zip": "82699"
+  },
+  "contact": {
+    "phone": "(280) 706-6812",
+    "servicePhone": "800459158"
+  },
+  "birthday": "1959-01-26T01:14:56.377Z",
+  "ip": "122.205.43.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Fup tuhdef bu dodeb pasoho geeznaw er bala gewji lirud gamera po. Baccolin wuulto baoja fufatda apinaju zomi zi amvo jam bikecapod erno ma juw jodvom wagfoabo wacwibac. Wu egfeni uffiju wuticcil figlekti puw jahduj saromem kudzicec tuteeje ken luv navhib.",
+    "bio": "Ka fe atu ugnuc va gakoado li hul tatudo malvum kuvgumnes annijko pezic hap vutane zo. Medzume kuifwo foc hed asbavfef owfonbor ruato bu poko iwvines ciwa vawuj wofcoh vi koevoko zohatsuz cevicocit. Mica ohtow ted meab ube zi pakorpef kepi fongig dalov tufitu ti ut iplogmak zoj mahwurle imek. Vek rufofoan nowamap waawu moiru oboeme omu bofseuw lalkafhi uj ozu nizez. Simetuc wijnon cebweago couzumu ufo do lekkek dohuwkuh liksehcer zogbiwu rubi uvoclo siseca. Ogehetep vonsokfa filud awku oliwi ig ublife cudnoeh ved guf vodafe mo kakigu ranarilav iwiagi."
+  },
+  "apiKey": "8b01ce87474b72f279860de69e20b5eae72d8a01dc940e75e29e62d2bacf0997",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
