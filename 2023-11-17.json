@@ -1,0 +1,26 @@
+{
+  "name": "Josie Carroll",
+  "age": 29,
+  "address": {
+    "street": "Wumsej Drive",
+    "city": "Numudifa",
+    "state": "MD",
+    "zip": "76066"
+  },
+  "contact": {
+    "phone": "(780) 757-5520",
+    "servicePhone": "800312816"
+  },
+  "birthday": "1991-07-13T19:30:59.567Z",
+  "ip": "222.25.74.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Ke ag mucgu tothi kuh jot wu liehugo ejocaf zepko alu azipodpum ca alaaw vagetlow. Ziz ege adzoteb zudud viube cekfi cocidu pa rikompum sual ge lejiru wa ha sigavapo bu vekbe. Zul dokpi naf evibo pilus rokufaru duf nof mugel fipioka zucmevwep ek gulhu bofdajro.",
+    "bio": "Si loebbil owduoha bisac mih fupu wenre ika pur fipu wizcaj upeweita kaira riz lenol mojadet ciwucvol dibi. Ipzebuv nacit wabkigow vi nakpubo ac gelkaodu mis tub fud nidih demisi. Sef kasdevnov iroam racidu gepega waak mi zoonaf kisefelo tecni cismik idjom lemej ucedis demubze. Zi susunu ve ithip narukona emwu piwinla zu bajuh mafarof aziru pida ka ladohu emguaca gav matmulpu doceswu."
+  },
+  "apiKey": "04c16940b9d28360c12395f1c7d05ac7fe95ce620fa4e916075111e317ace37a",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
