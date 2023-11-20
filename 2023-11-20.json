@@ -1,0 +1,26 @@
+{
+  "name": "Hester Norris",
+  "age": 53,
+  "address": {
+    "street": "Wudiz Boulevard",
+    "city": "Biijahod",
+    "state": "OH",
+    "zip": "01410"
+  },
+  "contact": {
+    "phone": "(323) 445-6167",
+    "servicePhone": "800499785"
+  },
+  "birthday": "1992-03-17T14:58:29.089Z",
+  "ip": "31.45.220.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Zojemeh maheniz jot hapu don fuhgevnaw camlir nazul sosij pedoca pi tibki ba ce to. Cu buladam hah azaog codbujca cicnu ru du rakebheb pojme ullovod dom pa pib apneruw. Ame wuwurco pabho noosna us baiheoja cab mab ifi punmar weliheb evoleher ari elaka. Zegtufis juspufo ta raufla mib fahimfo cewmu telak mimkuv janil eshehlur boj vec.",
+    "bio": "Hijsa suctun ofijo uziva zota cu edimumaw pihpoloj nug zowvisem idunaole oceko sohsavzaj ezahedek ketbesu ibupeidu tafu. Enwi depkawit sako raf mamiz zopid ac coszeb lawomih putacu aghot net kunsan. Hu raz waduna icunipnu colha necguopi ervazlur daw wur we udofo hid."
+  },
+  "apiKey": "537c7a760c583abc7f87be2e759b2b3a6213424a6319c8cd490ce133454a6307",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
