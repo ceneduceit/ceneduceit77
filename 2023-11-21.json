@@ -1,0 +1,26 @@
+{
+  "name": "Sue Drake",
+  "age": 20,
+  "address": {
+    "street": "Fotaco Heights",
+    "city": "Nipaoj",
+    "state": "WA",
+    "zip": "97267"
+  },
+  "contact": {
+    "phone": "(865) 647-9143",
+    "servicePhone": "800517945"
+  },
+  "birthday": "1986-11-29T19:12:58.050Z",
+  "ip": "243.138.239.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Lev gob banbo uzu upa la hak biben je et haha ubecu efisu enotu an. Paksowen ibeavacuv ceva ci wan bul kow nirero cozba mo vu negom egimso hisozaj jir. Teso vecmo atez fe pup zibmokmu in gobadam mur efaupuro ocelilmel zonruside tagmijke acnu zeido me.",
+    "bio": "Hobma opu ipit de fil ataoluohi kaza zazo kug ipomebso fuknapso widef gujduhuw wed seopu anlomja. Oka ugaavnun lih apoki dat muce hoknufvu feehu wezijfa jowtopa pudohoazo fot soir nahbu caw dof. Suete ti udakuehe afo ahiov zuba nelazuda kiuc ku apajotwo car sak nitmaup laifa odgi bugwu wo ohudu."
+  },
+  "apiKey": "5481966892f91095b72b5dba37251bdf6a2da61a24aa0403d5481baa2bae8772",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
