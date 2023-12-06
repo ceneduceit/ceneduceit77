@@ -1,0 +1,26 @@
+{
+  "name": "Larry Casey",
+  "age": 40,
+  "address": {
+    "street": "Kinuv River",
+    "city": "Zohodul",
+    "state": "NH",
+    "zip": "74228"
+  },
+  "contact": {
+    "phone": "(932) 495-9695",
+    "servicePhone": "800777967"
+  },
+  "birthday": "1977-05-20T19:05:18.525Z",
+  "ip": "72.69.157.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Nafa votlatte tien apvij bup nul da jel ik oka sevezu muwmujigo ruz an hokopav iwsi. Asefutev lodid rif jepo elisonaw semij cebbeg poj juwi naih ofzol vehwuf kapfa uf pegetpij cipa da. Nobtawovi jukirirav sosureze kuujalad konriet ohezergus mar izti efe veokadir hiz az ti.",
+    "bio": "Tufaladet do beddamol koc otewandoj nigweimi huji zudlorfek vuf ugloha ke lurza oz ruirabuk wu udjituh ahof. Hij terneb haeza ladtofa zonu owjorbi te osu tagidla juik aru cu miber seka vodo. Tachuweb ac cesimok farug vowo epcarli zanav fazaj uzawa kincibna ro ba ni. Es kotofmav ica ojadidit inizaco gophusro gac pup pomaprud pe paphepej soltep hi waj."
+  },
+  "apiKey": "3df8fbd91846a53f5c0e5976baf78fef4bd6566d2b3f840dba3a5ff90261b410",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
