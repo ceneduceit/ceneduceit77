@@ -1,0 +1,26 @@
+{
+  "name": "Chris Smith",
+  "age": 26,
+  "address": {
+    "street": "Azzo Key",
+    "city": "Misifef",
+    "state": "CA",
+    "zip": "70215"
+  },
+  "contact": {
+    "phone": "(563) 961-7160",
+    "servicePhone": "800951179"
+  },
+  "birthday": "1962-12-01T05:26:04.713Z",
+  "ip": "55.254.242.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Ki del palkuvlod catomi roes de giwigri ezolu ose dar demis ekdufi ose. Orahor vugci ragduzu zunvoto mog ju li piw zemlad aco zaw gejuk ipmusma nenud vidsom tomahes. Ramuboj imtaupu tev siczefa dig uze roga ridaha ejokvu ela pevnoc huhrik. Ejciez moworiku regoelo eta amohejko fawov pecij epoliv meh jazupooj fe ogukieva.",
+    "bio": "Kawiwpop ivkoppo urni na bokse hegced nuopob obaikacep ave tivjaut zo seegusoz fatleih weikbo zi zojgef zil. Anavepbo nelbak sohuzas puzetu ja gutduz tebesi ecubeiw ku nusa pub ukudu mawav ow egzelo ujupapiv zi gadnezav. Vaf nalmi fos an zigni lodgohfu utu jodej morzonbu rew mootepu anute tukaevi utovaso votekiver noc. Sopa uhilohjiz me isbilit mivafzul nisgaztev usivegib so hoovo gujefhir niv rargolob ve. Vutful ukocavza fe befo ik hihja zudapi kum vo jutiav zoov ogfamtoj juesudak ka. Ammarul ivu bunu vep nobsuk toehjo su uzoz cavmad oweeh ganaj hizu. Li joj kavekwi gagkihbov tefabi uh kaboj agvaf cop favi ijuezemo tuw eda."
+  },
+  "apiKey": "0a7871b0c67b7ca8b0af8115cb57df7ba85afbedd09c01c61f50fdb24f1be1c8",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
