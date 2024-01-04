@@ -1,0 +1,26 @@
+{
+  "name": "Lenora McDaniel",
+  "age": 22,
+  "address": {
+    "street": "Ohawu Avenue",
+    "city": "Kiozoifi",
+    "state": "GA",
+    "zip": "65616"
+  },
+  "contact": {
+    "phone": "(663) 849-2289",
+    "servicePhone": "800974973"
+  },
+  "birthday": "1988-03-16T22:04:06.628Z",
+  "ip": "105.206.170.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Onhop ocelu orase signah naame ujtolcom uru ep ba ojre zafakam cavegut. Uzitiras ca uteptik luudwez mumsaga zoravob vepja tiwohip puf zavdu wuhnije ponke fi ceveru. Foc elaalojas ukulilrol jefosaf ur cocew moziv getulde lannum ku awe zuhunpog wedocu kadalok fokkipa cub hehi. Deadoaz bijmet ta niciw cintovi jonzev tugahid pazejat lat didaop nedu ofueki pa jowa.",
+    "bio": "Emu ap lu jiwi cu tidobroj fum ni bahiwa ralpar olnimku ojki. Koli dihja zob wuz cafomhoj binwevu neezi amuceju vocez ina ifi ipgog wiwte cid. Ewojega cibivti agaumali bomozibal totur veh laserku dazrogjuk pu gici je denhe utoz fa er."
+  },
+  "apiKey": "00d1288485193dfc370d468245c6c33b86ff75c9eaf340ab5bc66d4cc4ed71f6",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
