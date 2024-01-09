@@ -1,0 +1,26 @@
+{
+  "name": "Amy Montgomery",
+  "age": 40,
+  "address": {
+    "street": "Sidez Street",
+    "city": "Igaevohod",
+    "state": "NV",
+    "zip": "49910"
+  },
+  "contact": {
+    "phone": "(300) 932-4580",
+    "servicePhone": "800173797"
+  },
+  "birthday": "1995-12-08T19:45:35.009Z",
+  "ip": "197.115.62.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Wawpat suv maiwidu pirbo da pulbuvi om kotozutu hi roatodob gospob fo va dunoc nupowap. Kejzof pu ri ejefawel hotvat evotavif kueta nujfaskur im si tinufo lejdab jetuc hu luzer var ovuefko gowoma. Jucut bot amzipcu podenhaf ma gus zihol asa tefiope papzecja eji ijidi cuntisi. Bac mog urijnuz iwe om bab lienih gaz mavsomo kesi pu iz baefoubi.",
+    "bio": "Berudu ce balib vad wetan jacvic ovidalno loje akbutur aku vujfac za limonulab enizewla oh udzikpok rabfika ki. Uhegi kemvardef momigopev hicohebo ulkab tij laishi petadu ebarecen viit dip sip rifteh melow. Nirujta futnoga pok ceku gule esesi peh wujor divfa ojaninog lutuwtor owimop. Ob tuik alap dud ov lupbu forubhof gu amo dovupo epli nafmiti faznih fibatir mous. Fo hin zimhup lo atsozeb douse vucgas vaitzi ewacegwan mivfuut cediziil epooma fizegem zojgak fevagedu."
+  },
+  "apiKey": "c6f1fbeb52101d1bd2257f2dcd3a2c14ab3c0de65a3227c3d7a120b21a1cf454",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
