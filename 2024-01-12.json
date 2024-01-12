@@ -1,0 +1,26 @@
+{
+  "name": "Mathilda Becker",
+  "age": 21,
+  "address": {
+    "street": "Joop Road",
+    "city": "Jawodoc",
+    "state": "NV",
+    "zip": "54000"
+  },
+  "contact": {
+    "phone": "(773) 767-4802",
+    "servicePhone": "800245663"
+  },
+  "birthday": "1981-08-22T14:28:32.477Z",
+  "ip": "138.255.50.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Cobih bi siw kozoeku pekocfus sefhel kameera uwoho duvdic napvechek coc pegnoj juvjob guewtaz fazi. Mewvecci sem do levafaz pahno jeawona sav seag zetfo va huebowow okaedlo covektit suv di sozpiivo. Guhvag zocwocufi pufutzu bidmeke irrovsis si no afu cev emdal va gejkuro.",
+    "bio": "Uwi icudolmo amivcif zak ijani pim felij muris utgaw be sobwuzgit lohke me burluak. Koolhi cu hu wet jowupoc umgeko inhoh nobkik gaedima rewuniri zezohve sil. Kojocef aturikem wag gejejda toglek ceti sasa pamebto emugogko zezpup hir sukjec vebu jo."
+  },
+  "apiKey": "254eed71653c0da73e8998cb7a0d964ef5032f22ad08402e6d061bea922cb95d",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
