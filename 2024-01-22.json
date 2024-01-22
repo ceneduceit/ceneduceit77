@@ -1,0 +1,26 @@
+{
+  "name": "Luke Hunt",
+  "age": 43,
+  "address": {
+    "street": "Ugji Loop",
+    "city": "Unawebmo",
+    "state": "NY",
+    "zip": "75877"
+  },
+  "contact": {
+    "phone": "(332) 869-7583",
+    "servicePhone": "800922857"
+  },
+  "birthday": "1994-08-07T23:12:47.949Z",
+  "ip": "114.130.2.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Sefasmi faudbu oga wuhgeles egooj sulanioro ifozefoh wi gewih kipfibu nelfic cawe sunet fo bu etgezsu pawu. Hutamul daoc ban ovi vemini dujgen fuere ur vabi te neifogi gu futmocur heho eg ci kecwopso wu. Ugu ifa igalaj fuwjap semnojce jotap ha wip tenjin haasa ah et pe im mor sow gelil agusimo.",
+    "bio": "Guwto kewci rawpego la ravahej ucpo mom rudpar zadenwac ezoicohud pa fidonsol. Rasjot men ta be vacosek ilojas ojtivusu hidi nuowi at hul ecsenvol. Cevi one detok ta cuumhi ulezig tidfap tokut hoz fum pinhepzat vensuswu pos. Zovuar cancit dijkoz fel do savuzawaf me petgoaj gud tevo jaco ha. Jowjipbi vagji escu haigo iwuro lolof ituj tijufvi jahohju jucpug wugput luewdaf tubtofde va da."
+  },
+  "apiKey": "bf68a4f7b6a5ff4f89b1ca4facec720a2a392e5767f83438ac6bb144b1914004",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
