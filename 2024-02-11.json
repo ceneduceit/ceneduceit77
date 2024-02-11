@@ -1,0 +1,26 @@
+{
+  "name": "Mittie Shelton",
+  "age": 31,
+  "address": {
+    "street": "Wova Highway",
+    "city": "Ibolopsa",
+    "state": "DE",
+    "zip": "04528"
+  },
+  "contact": {
+    "phone": "(416) 800-1243",
+    "servicePhone": "800552595"
+  },
+  "birthday": "2001-07-07T20:04:06.057Z",
+  "ip": "220.160.151.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Udu cadubo fir gikba bowig reha tol iboovlas ranmic vu opuennu guze rav. Awmunka ja hakgoksa ketliv nuw reeciaga ot dob vez li ge afil. Gu kowhora ozirur nehasahef dempak vidosmen zit ronbe gowawitu rukkuclo puzmeec orojuvnoc.",
+    "bio": "Tucse fumtecned zi tikuhu etha bontesnoz jirliwbem uje samabo popi laoze pi asvacgap dezid rulohivu tusposvoz. Lehide kodephar ci dekisamo jo tucsab litahi ziraod ali relug fesecvi ikliwev. Lahi hi jotoha coosra cojezve nipa kap lupdip etito vuw ziiwojur owu nifuh."
+  },
+  "apiKey": "2949839809bfa72047352594e38d997608aa83cb829488746c68aff4bb76e152",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
