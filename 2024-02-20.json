@@ -1,0 +1,26 @@
+{
+  "name": "Marvin Lowe",
+  "age": 19,
+  "address": {
+    "street": "Zosu Place",
+    "city": "Semniege",
+    "state": "LA",
+    "zip": "55288"
+  },
+  "contact": {
+    "phone": "(351) 735-8370",
+    "servicePhone": "800569874"
+  },
+  "birthday": "1994-05-05T06:15:57.974Z",
+  "ip": "187.42.245.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Deg pe vebfu uko unibhi awuguif had duwo kudzo juvhu edumerzo of oh jedicije hefis muvuaru lusuz mozan. Fovac bi tocfozvuw fumisa rujvi eboafo alcoet kaij mujhehwo naplewpo otos mi cored bij bu ammeg. Mef wapazjo ofhi tacuun aspem lu pohota fijig iloawfap lokak ritfo bat. Denfelu fehi ufgej pobro pew amles ke lugufiw maghis munpam hecapuh codupu zo na horar. Rappap cucipha makpejcu opasi lilu tef rid lok sigul nehif dahup mil keduc mi. Gik jieraaf se dab ze deprob liwoc rimwoz muowo cisgi lereusa epa. Omdek nodibake vase nov ge fow raac ge besfi het ji tin tikoro ojniv piphet.",
+    "bio": "Sodsimer baahsi evazujic kij vaid ceapuka wiwido keet pigowokas fi oto kizakeipu mip. Davda mocwesu udica gabu kisopidi neg rufsu dasovkis ruudhi ac ki del ra tale. Ocivop dahokdum sivdus la monu vabe gocre usnuw eje epdaal sag il elbuj wicdel mopiog rekut. Fija bud cavazeg wucsuc ibet viviz nealnuv alekago deloz fukaase uco le. Ahzadim geb udzo ihzujga vediskun bowor vubo uwasis uhealalic jektod uluwujuf sevukinad diis sowke. Runwobvav ku bettek okta elcohtu cinimeze nodvaor japvit kecasuka kazizud seporitir vivso. Siz ja barizav be catfukfo boew dobfico cuowuti itiwij vesiuh lan mobmav de du ug sef eldo."
+  },
+  "apiKey": "1eb8f19d756d5e1b46df2e35dd4cf94c5f0286c505ff544bc3c3ca94f53953a8",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
