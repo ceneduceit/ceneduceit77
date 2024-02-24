@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Kelly",
+  "age": 34,
+  "address": {
+    "street": "Monec Place",
+    "city": "Guwuas",
+    "state": "MN",
+    "zip": "50974"
+  },
+  "contact": {
+    "phone": "(454) 229-1835",
+    "servicePhone": "800718765"
+  },
+  "birthday": "1989-07-31T09:35:12.101Z",
+  "ip": "15.41.146.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Neop neap vi wotafa denoaje je mil tu josfiden bapgu fog tesvof moanuj guv ve. Caefu on oka efaospeb nughi gunkacbag abevonaw me ococubop livozguj cisned ciefu veom. Milop voirabir goso sipa otocabab jegondo lu ig fev kobekju na ne fivroaku ok tahhehab jo. Jimikoh ifba cuviw fo vihofup pi neuz cogo la vi lucef ipwo ketruwoz kegu tasfimug.",
+    "bio": "Niblug fof wo ebuonut jifniuf hazteh mu kehtoz banfargeb tecem julewa usofu vad jeaj odalob kiozzu haduz. Hunlep ru sipjon pafib cif ruplanis muj ric hiedafus dure na wuare siwev je. Ito ugu jo lulefo zejgak inkam lek lem dal mapbo veer eb ze zehec mipi ka dubav. Hamuswis kohgovpi keviki gaf lulozuv bo git ofinhaf uh viwelja sato bukbiw of vom giwja gulirwi. Za gurtezbi fif egikik suhvabni rod enutamap ribacco ucseh bubpet obe ceruckar to zozsuj razorobo vupihaca. Vatlo kenewimoz kul so wizgi ado tipmubi ru ne ticar wowota ligicu luf uno."
+  },
+  "apiKey": "df3cef60d624806e0891879e3a9dff32e9c62b2aaf6cd0727fcba2b4f9a8b3b7",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
