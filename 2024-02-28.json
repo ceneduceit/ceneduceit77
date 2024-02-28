@@ -1,0 +1,26 @@
+{
+  "name": "Eliza Wong",
+  "age": 49,
+  "address": {
+    "street": "Uppam Loop",
+    "city": "Doohoah",
+    "state": "MA",
+    "zip": "10678"
+  },
+  "contact": {
+    "phone": "(387) 913-7516",
+    "servicePhone": "800267164"
+  },
+  "birthday": "1979-03-24T07:34:04.087Z",
+  "ip": "24.229.243.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Ta cartup net suc dek hekcu iweebagar embaciz wackafoc ciz uli itamahir zu lilvukzed. Oko oszukaw diwkeuda gunfi jibeva moere oturalfob pej pinan vebobi or heod jejokafi imubtiv zuos kafha dubtume. Dokwahnop zofgekek lu toz bu up iga opibu da zaggim vari kavsi geksuufu.",
+    "bio": "Nod mona wepe azoko gatekhoz sucacha waopuci kep furan wocez nejfale wadenu pi ah. Ne ejgohli jippom suro wul ka efevuvfe ur co inivo tidjo wivul be gi getfusutu hofpep ozguw. Tubaw wajuvi zomekec lehusba ju acemu pot lebavseb bisfetni sewdazhi ev ro fulivwab go avu wiohfi. Joh wa agdu tijaciog buonhu zavu za lam hesfo ho hemut podses lejmopjat hepiw zok boc. Jewgamo da ma beswa cubduj gezavget tulko sufro rip cavo uru micvuba vu ri wiv. Nevnid lohbitih rah izhu anosu pizpa ovwofga fasnuz ihe ebefi cugabec egwajras suvi puk."
+  },
+  "apiKey": "274abf68217fce72039cdebb0b651bb1f82b9172673536eb0cee235a2a57af4d",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
