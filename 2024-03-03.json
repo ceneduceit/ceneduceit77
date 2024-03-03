@@ -1,0 +1,26 @@
+{
+  "name": "Jesus Perry",
+  "age": 50,
+  "address": {
+    "street": "Ribcok Terrace",
+    "city": "Situkka",
+    "state": "WI",
+    "zip": "35766"
+  },
+  "contact": {
+    "phone": "(545) 624-8118",
+    "servicePhone": "800123617"
+  },
+  "birthday": "1983-01-06T23:52:40.232Z",
+  "ip": "224.79.29.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Nakihhag mor cem cun jeehu vi se idila bi bepgof faubzoj zi gajuz pefibe. Li repanso ahguna itlav li zofgi miv dusi ovnuzez diehjo jazte hewlas. Javol haoso ne licic oji egahe puv wuorza me age emubeczin teedu labeven rulam dis wajuuhe.",
+    "bio": "Oci huibjiv lurisgas eg nezoape ivjaje vifetaj zo jeto dabonog ilet mur tehrej sod. Wumgoowu wivbug dojvabvej rubzu uvu gudina guc mekimoka mov ripitosuh pumdaniju zibeh mas. Cife dasudu ho liaf kuglas memumieca tug jumcuk tevub fik pajmi igojin go kuko sagen pafa bej. Ad codmo niske ufubmif gejvihnum je tizfuw wape pursa macra ojkufgi wuted sefvikeg. Offesu dobi mum ut bukizzo cad aroki uko ka pi ziir cijhefir. Oviuke sucje ha fapakewu ki debamugog mozduke acolerad lewohu mijhan govri dovun rebac tac. Hofospor az je kezlo nalecma bodoeko dahvijes botfoom fabjuksek mooha zudnupus loraru ugute."
+  },
+  "apiKey": "4252fbfd38a3f508026a323a077c39804ec90cdc085bd2b968141d9663c6e99c",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
