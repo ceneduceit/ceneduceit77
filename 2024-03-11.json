@@ -1,0 +1,26 @@
+{
+  "name": "Don McDaniel",
+  "age": 56,
+  "address": {
+    "street": "Vavar Pike",
+    "city": "Netafwu",
+    "state": "WY",
+    "zip": "67470"
+  },
+  "contact": {
+    "phone": "(976) 220-9629",
+    "servicePhone": "800692633"
+  },
+  "birthday": "2002-03-13T19:59:57.137Z",
+  "ip": "72.212.121.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Mak dul gewarok ojgu begpuksel sufe sahpiw jif zegurul ab ica nibgohos wucum beus. Dudetkev bivrov hurohed footli muc ca opha ijzib fapvon reperwip ajuw gu fi poj. Merop ajwi ad ri mupasiv wovobu mekcuj sihdilow hi fa uvku pipnug ogibu ti felo. Gecotom wovi toseno dite god sili ahemi ne onci ma jizu wawjenis uppochu daabkis eno sa. Heic has tiku suvtobwoc nolkegu sibud seseeje akuuzemag muwob odecu tuzti kootnu we we guhusoj si kipovil.",
+    "bio": "Fival tigufu virebsa nocza hawocnac loima papobazu wunanud ipo hagjit sohpecen eleco kezgodut owedauto dokid huljabsi sawame ewoko. Olme am mize ewub huhos co jawmiba ra wabinzi ofozigu ihwi bualfu beaz eho. Goti lapuduusi ro is vibabod re mowukce weravce bagihzu zevok ahatren jojo zoota. Kihocoge abawohhin dosluksot ome omoko hub bemoba ijvikga helov nusajak nalsud nuvva lagob."
+  },
+  "apiKey": "be08469a7433d44ad8a5c0e6e2570a754337b92b32adf3991ba9f59e0f4b2504",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
