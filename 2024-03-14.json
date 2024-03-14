@@ -1,0 +1,26 @@
+{
+  "name": "Sue Garcia",
+  "age": 64,
+  "address": {
+    "street": "Temtim River",
+    "city": "Cevdefiz",
+    "state": "IN",
+    "zip": "34972"
+  },
+  "contact": {
+    "phone": "(500) 721-7414",
+    "servicePhone": "800663545"
+  },
+  "birthday": "1996-10-15T05:45:46.386Z",
+  "ip": "189.107.211.229",
+  "foo": "bar",
+  "profile": {
+    "about": "As mi zuor pocutva lad liup feb amcisit uba hi de jadejtok jef somac zohwaac dabilop acenu. Ocowowtu por ku hoc hihigipof omkahpak guvtoso nezo folilri oro ahu avjep usrutta. Diwol nugob zoz ufozo kejij fatu ahe so ojzutege nammodu elfuola han vibsito jonruzric ig.",
+    "bio": "Ja kuv buzu nutcefdu ba isseni petiv etoca ravuno ru fasuof fegez vududi do. Jeko ki ole sawek lig coweguja fiwwo sumen vopir jitornef hamojbol gozuvu. Kulducuv ufbek mugikow hikdad duciat pe tios cikafboz ful dalfaj iflik amejel sutirev tidnegiv joewhid tocwid. Amitehiv pijrihun fej sos zuole furfa jup hasaw armil nerad lug muel imaluab."
+  },
+  "apiKey": "2a28c49659826b8f19fe2627d08231675cb5f9a375c627b807b107967d0ebee3",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
