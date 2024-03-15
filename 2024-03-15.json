@@ -1,0 +1,26 @@
+{
+  "name": "Mitchell West",
+  "age": 18,
+  "address": {
+    "street": "Zata Pike",
+    "city": "Muajete",
+    "state": "WA",
+    "zip": "64689"
+  },
+  "contact": {
+    "phone": "(639) 844-9401",
+    "servicePhone": "800496372"
+  },
+  "birthday": "1977-02-07T19:17:58.362Z",
+  "ip": "123.203.250.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Vefo pir wutzozum kobappi edapi ju ot mul ujvizis kofkeclid vab wojeziz rada suki nud kujmubo va. Bule pa wi pe jic jacutrir riftivor fitne joholov makjutkug kufken korvelad. Gafuwrin age wocjaone lutozo tuahazij nemedbu uffof pasos sawes pivovpo neij egu izefec. Edirupad lerab ro joguvwu oro jof tuwop ewa beriz mo vowivi jadfis ru.",
+    "bio": "Kusu pu lakcif wu cih af ufi tol zatacej naho vodarsuc kofemu zutmargag got ruvojpum kujac tiis ori. Amihozki gelap hoj ilfat wuwak wo ziipe ujaja kouko siat tuh batiki wuziil. Vec faf hevitil cakome lojve rekbip wunzunbi sekfis lortun etrepceg imi leb."
+  },
+  "apiKey": "77ea27daf84e762d2574823960a0b97f1b9e68eb5ccdfaca2ac7123e5b88a3b6",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
