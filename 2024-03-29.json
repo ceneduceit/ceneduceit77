@@ -1,0 +1,26 @@
+{
+  "name": "Helena Johnson",
+  "age": 52,
+  "address": {
+    "street": "Igagab Key",
+    "city": "Wucalo",
+    "state": "MO",
+    "zip": "09115"
+  },
+  "contact": {
+    "phone": "(653) 803-4391",
+    "servicePhone": "800133641"
+  },
+  "birthday": "1969-10-07T17:55:57.416Z",
+  "ip": "15.182.134.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Watkiwod hak ho tikarizit uzdomok bumig edohe bahhof ij fe madrul giz lakvo. Comov iw opcog casse racu gokcu gitub eti fin vahuzva tupate bosa jisol awvibuk tec. Hefa baiji ludi awu gawusi pegetuomu ala sojota waz gibat jatezbem tuzba.",
+    "bio": "Ketgak tazpijut kez mavtiahi onjuk gidihuri woucco pefwodder jitodi liavo tajutra nasrowpas ca umzoju mo udota futkeupe. Ap efgamab rezen majifgu tifuda he defwov kovetvo bobo fotletkev fotahu asedukaj rovalap. Kunun dosiva kehirna cuce duvil wa roasabu jouvu gadwusti uhupar ojusinob vuzsahovo leg wohuk ujgat. Cizujes lumfop beeca min ufewuhew ze aga jonac ha nupo ha we razsevez."
+  },
+  "apiKey": "069ae7ec3afb10d7e89a9712e777db974ac3fd6ae905a84ddafc4006d84fd820",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
