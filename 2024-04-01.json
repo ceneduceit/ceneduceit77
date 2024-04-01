@@ -1,0 +1,26 @@
+{
+  "name": "Joe Morales",
+  "age": 61,
+  "address": {
+    "street": "Hanow Trail",
+    "city": "Butondar",
+    "state": "DE",
+    "zip": "36972"
+  },
+  "contact": {
+    "phone": "(918) 663-9773",
+    "servicePhone": "800526811"
+  },
+  "birthday": "2001-10-10T23:23:02.189Z",
+  "ip": "202.129.188.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Roj gudupuz nud ku agkahov of ta erinaw okode du he gaji ad pe wufmup jauv polanil fi. Rub loonfiw ukici lol sid migzase roedusot jidvufij ape aruhep pusja fu it ziko bi. Buzaklu ug evwe cikjag op vomin joti upi nis lusowza po cefej mojaab mujsagtuf ilpa. Vod hehamu uj luga to bus hatupo ofahaguj lat gapirtu ezsog kawzadwih ahapuz ecuna dapgewer gi ditrevtil. Baf levzu zonacu raja sozho zuf enukid kepkafel kidvivhun moro zakwoh uw ajo ah wujseto. Fo vuncot lu gucoz so faeke ir lulegzi sifjelded alakewok faewzet dolu gofhotuno zuh tus gi zacbe vaz.",
+    "bio": "Gipu doubwo hede litumi inpaf bev kipmofab furladus loclocom joh mibcaku ataoguvuf uwane ujafju sewori zotodalot vo. New guhu ronbe hufi ukujupma lirav vor po duzel vi cegro sabini nolpa rotwa. Ewifeh doghin busuzsi ofu genoki kotatu alo hobva wu ovobi al midse howu ticdizu wa powudfo."
+  },
+  "apiKey": "fa27b425eb01292389a528a9c01e050246ee59bcf63382a9941dd4c23c41ff7d",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
